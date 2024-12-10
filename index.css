@@ -1,0 +1,36 @@
+body{
+    background-color: blueviolet;
+}
+
+.heading{
+    color:bisque;
+    text-align: center;
+}
+.heading:hover{
+    text-decoration: underline;
+    color:azure
+}
+.paragrap{
+    background-color: aqua;
+    text-align: center;
+}
+.paragrap:hover{
+    background-color:white
+}
+.name{
+    text-align: center;
+    color:rgb(255, 0, 0);
+    
+}
+.name:hover{
+    color: blue;
+}
+.name1{
+    margin: 0 auto;
+    background-color: blue;
+    color:white;
+}
+.name1:hover{
+    background-color: aqua;
+    color: black;
+}
